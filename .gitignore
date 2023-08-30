@@ -18,7 +18,7 @@ src/main/resources/application.example.properties
 *.iws
 *.iml
 *.ipr
-
+portfolio.jar
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
