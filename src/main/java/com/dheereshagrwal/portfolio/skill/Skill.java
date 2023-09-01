@@ -1,6 +1,7 @@
 package com.dheereshagrwal.portfolio.skill;
 
 import com.dheereshagrwal.portfolio.icon.Icon;
+import jakarta.persistence.Cacheable;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 
