@@ -1,0 +1,15 @@
+com\dheereshagrwal\portfolio\skill\SkillRepository.class
+com\dheereshagrwal\portfolio\work\WorkExperienceController.class
+com\dheereshagrwal\portfolio\contact\ContactFormController.class
+com\dheereshagrwal\portfolio\contact\ContactFormRepository.class
+com\dheereshagrwal\portfolio\project\ProjectRepository.class
+com\dheereshagrwal\portfolio\project\ProjectController.class
+com\dheereshagrwal\portfolio\icon\Icon.class
+com\dheereshagrwal\portfolio\skill\SkillController.class
+com\dheereshagrwal\portfolio\work\WorkExperienceRepository.class
+com\dheereshagrwal\portfolio\work\WorkExperience.class
+com\dheereshagrwal\portfolio\project\Project.class
+com\dheereshagrwal\portfolio\tech\TechStack.class
+com\dheereshagrwal\portfolio\skill\Skill.class
+com\dheereshagrwal\portfolio\PortfolioApplication.class
+com\dheereshagrwal\portfolio\contact\ContactForm.class
